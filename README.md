@@ -12,6 +12,7 @@
 - [ ] 代码大全
 - [ ] TCP/IP详解
 - [ ] Kubernetes in Action
+- [ ] Unix 环境高级编程
 - [ ] Unix 网络编程
 - [ ] 算法导论
 
